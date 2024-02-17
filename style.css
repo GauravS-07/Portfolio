@@ -333,7 +333,7 @@ form btn2{
 /* -------------------css for small screen------- */
 @media only screen and (max-width:600px){
    #header{
-    background-image: url(Images/phone.jpg);
+    background-image: url(phone.jpg);
 
    } 
    .header-text{
